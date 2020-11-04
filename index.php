@@ -16,8 +16,9 @@
 <body>
     <div class="div">
     </div>
-    <button>Ação</button>
-
-    <script src="script.js"></script>
+    <button class="btn">Ação</button>
+    
+    <script src="jquery.min.js"></script>
+    <script src="./script.js"></script>
 </body>
 </html>
